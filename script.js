@@ -1,6 +1,6 @@
 const messages = [
         "Believe in yourself and all that you are.",
-        "Success is not final, failure is not fatal.",
+        "practice makes progress.",
         "Keep going your improving!",
         "Small steps every day lead to big results.",
         "Little thinks make big days."
