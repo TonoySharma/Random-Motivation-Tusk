@@ -3,7 +3,7 @@ const messages = [
         "Success is not final, failure is not fatal.",
         "Keep going your improving!",
         "Small steps every day lead to big results.",
-        "You are stronger than you think."
+        "Little thinks make big days."
     ];
 
     const button = document.getElementById("btn");
